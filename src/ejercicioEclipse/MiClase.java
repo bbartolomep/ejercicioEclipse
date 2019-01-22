@@ -1,5 +1,5 @@
 package ejercicioEclipse;
 
 public class MiClase {
-xsdasasd
+System.out.println("Hola");
 }
